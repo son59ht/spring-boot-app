@@ -1,0 +1,6 @@
+#google drive api
+ google : 
+  service_account_email : rumservice@hellocloud-196601.iam.gserviceaccount.com
+  application_name : hellocloud
+  folder_id : 1EAmdMHRuGYtyKftVWTIhEsuRpxewwSnW
+  service_account_key : hellocloud-1866d981cf09.p12
